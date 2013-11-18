@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/LinearLayout1" android:background="@color/blue" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/white" android:id="@id/tv1" android:background="@color/lightgray" android:layout_width="fill_parent" android:layout_height="20.0dip" android:text="TextView" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TableRow android:id="@id/tableRow1" android:layout_width="fill_parent" android:layout_height="65.0dip" />
+        <Button android:id="@id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Sale" />
+        <Button android:id="@id/button3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Sale Report" />
+        <Button android:id="@id/button4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Result" />
+        <Button android:id="@id/button5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Winners" />
+        <Button android:id="@id/button2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Ledger" />
+        <Button android:id="@id/button7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Change Password" />
+    </LinearLayout>
+</LinearLayout>

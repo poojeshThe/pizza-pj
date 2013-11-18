@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/pprod" android:layout_width="100.0dip" android:layout_height="fill_parent" android:text="pname" />
+    <TextView android:id="@id/pptypeno" android:layout_width="75.0dip" android:layout_height="fill_parent" android:text="Ptype" />
+    <TextView android:id="@id/ppqty" android:layout_width="50.0dip" android:layout_height="fill_parent" android:text="qty" />
+    <TextView android:id="@id/pptot" android:layout_width="50.0dip" android:layout_height="fill_parent" android:text="tot" />
+</LinearLayout>

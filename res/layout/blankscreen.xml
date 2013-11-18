@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/blue" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="100.0dip" android:text="@string/version" />
+    <TextView android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="20.0dip" android:text="User Name" />
+    <EditText android:id="@id/userid" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10">
+        <requestFocus />
+        <requestFocus />
+    </EditText>
+    <TextView android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="20.0dip" android:text="Password" />
+    <EditText android:id="@id/scode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="textPassword" />
+    <Button android:id="@id/logbut" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="  LOGIN  " />
+</LinearLayout>

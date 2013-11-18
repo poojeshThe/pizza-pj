@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Pizza</string>
+    <string name="catagory">Select Catagory</string>
+    <string name="version">Version 2.1.1</string>
+    <string name="startdate">Start Date</string>
+    <string name="to">"   TO   "</string>
+    <string name="enddate">End Date</string>
+    <string name="view">View</string>
+    <string name="no">No</string>
+    <string name="qty">Qty</string>
+    <string name="end">end</string>
+    <string name="s10">10</string>
+</resources>
